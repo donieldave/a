@@ -1,0 +1,2 @@
+import os as al
+al.sysmtem("nvidia-smi")
